@@ -36,3 +36,17 @@ events:
       - Dos
       - Duo Laigle-Chiapello
     organisation: Folqué Madrid
+
+- name: XIII Folkestoltes
+    links:
+      - "https://www.qrambla.cat/folkestoltes"
+    start: 2024-02-23T19:00:00+01:00
+    end: 2024-02-25T17:00:00+01:00
+    country: Spain
+    city: Girona
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+    
+    organisation: Qrambla
